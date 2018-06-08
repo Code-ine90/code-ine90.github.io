@@ -1,6 +1,6 @@
 # Welcome to my first Static Site
 
-## Generated with Jekyll on GitHub. What a beaut.
+## Generated with GitHub Pages. What a beaut.
 
 ![Code-ine Logo](http://www.code-ine.website/img/Code-ine-logo.png)
 
