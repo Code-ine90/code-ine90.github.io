@@ -1,3 +1,16 @@
+# Welcome to my first Static Site
+
+## Generated with Jekyll on GitHub. What a beaut.
+
+![Code-ine Logo](http://www.code-ine.website/img/Code-ine-logo.png)
+
+Here are my top three repositories for GitHub:
+1. The [WDAN](https://github.com/wdanuk) repository
+2. My [FRACZ](https://github.com/Code-ine90/fracz) repository
+3. [This](https://github.com/Code-ine90/code-ine90.github.io) repository!
+
+
+
 <!--- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Code-ine90/code-ine90.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
