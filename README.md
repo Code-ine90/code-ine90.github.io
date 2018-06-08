@@ -9,6 +9,10 @@ Here are my top three repositories for GitHub:
 2. My [FRACZ](https://github.com/Code-ine90/fracz) repository
 3. [This](https://github.com/Code-ine90/code-ine90.github.io) repository!
 
+Here is my favourite review!
+> This is by far the best
+> static site i've ever seen! - **Claire Lickman**
+
 
 
 <!--- ## Welcome to GitHub Pages
